@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find record return exeption", "Find record return exeption\Find record return exeption.csproj", "{C65A90ED-89EF-4F39-9884-B544D2565EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C65A90ED-89EF-4F39-9884-B544D2565EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65A90ED-89EF-4F39-9884-B544D2565EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65A90ED-89EF-4F39-9884-B544D2565EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65A90ED-89EF-4F39-9884-B544D2565EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F43CF6-BC20-4C34-8AA6-E2C4D6189F45}
+	EndGlobalSection
+EndGlobal

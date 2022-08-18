@@ -1,0 +1,14 @@
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\bin\Debug\netcoreapp3.1\Find record return exeption.exe
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\bin\Debug\netcoreapp3.1\Find record return exeption.deps.json
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\bin\Debug\netcoreapp3.1\Find record return exeption.runtimeconfig.json
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\bin\Debug\netcoreapp3.1\Find record return exeption.runtimeconfig.dev.json
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\bin\Debug\netcoreapp3.1\Find record return exeption.dll
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\bin\Debug\netcoreapp3.1\Find record return exeption.pdb
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\obj\Debug\netcoreapp3.1\Find record return exeption.csproj.AssemblyReference.cache
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\obj\Debug\netcoreapp3.1\Find record return exeption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\obj\Debug\netcoreapp3.1\Find record return exeption.AssemblyInfoInputs.cache
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\obj\Debug\netcoreapp3.1\Find record return exeption.AssemblyInfo.cs
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\obj\Debug\netcoreapp3.1\Find record return exeption.csproj.CoreCompileInputs.cache
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\obj\Debug\netcoreapp3.1\Find record return exeption.dll
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\obj\Debug\netcoreapp3.1\Find record return exeption.pdb
+C:\Users\Seymur\Desktop\ma\web\Find record return exeption\Find record return exeption\obj\Debug\netcoreapp3.1\Find record return exeption.genruntimeconfig.cache
